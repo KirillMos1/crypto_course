@@ -1,2 +1,2 @@
-# crypto_course
+# CryptoCourse
 CryptoCourse - монитор курсов криптовалют
